@@ -1,0 +1,15 @@
+/Users/mac/Projects/Generic/Generic/bin/Debug/net7.0/Generic
+/Users/mac/Projects/Generic/Generic/bin/Debug/net7.0/Generic.deps.json
+/Users/mac/Projects/Generic/Generic/bin/Debug/net7.0/Generic.runtimeconfig.json
+/Users/mac/Projects/Generic/Generic/bin/Debug/net7.0/Generic.dll
+/Users/mac/Projects/Generic/Generic/bin/Debug/net7.0/Generic.pdb
+/Users/mac/Projects/Generic/Generic/obj/Debug/net7.0/Generic.csproj.AssemblyReference.cache
+/Users/mac/Projects/Generic/Generic/obj/Debug/net7.0/Generic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/Generic/Generic/obj/Debug/net7.0/Generic.AssemblyInfoInputs.cache
+/Users/mac/Projects/Generic/Generic/obj/Debug/net7.0/Generic.AssemblyInfo.cs
+/Users/mac/Projects/Generic/Generic/obj/Debug/net7.0/Generic.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Generic/Generic/obj/Debug/net7.0/Generic.dll
+/Users/mac/Projects/Generic/Generic/obj/Debug/net7.0/refint/Generic.dll
+/Users/mac/Projects/Generic/Generic/obj/Debug/net7.0/Generic.pdb
+/Users/mac/Projects/Generic/Generic/obj/Debug/net7.0/Generic.genruntimeconfig.cache
+/Users/mac/Projects/Generic/Generic/obj/Debug/net7.0/ref/Generic.dll

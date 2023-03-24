@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{3116693E-0D40-4CF6-9A25-92AADFC427E2}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Generic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Generic/Unility.cs">
+    <Files>
+      <File FileName="Generic/Program.cs" Line="22" Column="22" />
+      <File FileName="Generic/MyGenericClass.cs" Line="13" Column="17" />
+      <File FileName="Generic/Unility.cs" Line="22" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Generic" expanded="True">
+            <Node name="Generic" expanded="True">
+              <Node name="Unility.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
